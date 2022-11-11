@@ -1,0 +1,125 @@
+[
+    {
+        "categoria": "Gran Chaco",
+        "pregunta": "Cuándo se fundo la ciudad de Yacuiba",
+        "respuesta": "12 de agosto de 1876",
+        "incorrecta1": "6 de agosto de 1830",
+        "incorrecta2": "11 de octubre de 1983",
+        "incorrecta3": "12 de agosto de 1940",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Bolivia_Tarija_Gran_Chaco.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Gran Chaco",
+        "pregunta": "¿Donde se encuentra el río Pilcomayo?",
+        "respuesta": "Villamontes",
+        "incorrecta1": "Yacuiba",
+        "incorrecta2": "Carapari",
+        "incorrecta3": "Sanandita",
+        "imagen": "https://i.ytimg.com/vi/Mr-toPpA8_0/maxresdefault.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "U.E. German Busch",
+        "pregunta": "¿Cuantas estrofas tiene el himno al colegio German Busch?",
+        "respuesta": "4 estrofas",
+        "incorrecta1": "3 estrofas",
+        "incorrecta2": "5 estrofas",
+        "incorrecta3": "6 estrofas",
+        "imagen": "https://i.ytimg.com/vi/l9-it2E3FCo/hqdefault.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "U.E. German Busch",
+        "pregunta": "¿Cuantas áreas tecnicas cuentas el colegio German Busch?",
+        "respuesta": "3 (Informatica, Textileria, Metalurgica)",
+        "incorrecta1": "4 (Informatica, Textileria, Metalurgica, Gastronomia)",
+        "incorrecta2": "2 (Textileria, Metalurgica)",
+        "incorrecta3": "5 (Informatica, Agropecuaria, Textileria, Metalurgica, Gastronomia)",
+        "imagen": "https://i.ibb.co/zfM2Vyd/paul-auster.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "U.E. German Busch",
+        "pregunta": "¿En que año se fundo el colegio German Busch",
+        "respuesta": "1951",
+        "incorrecta1": "1945",
+        "incorrecta2": "1940",
+        "incorrecta3": "1980",
+        "imagen": "https://lh5.googleusercontent.com/p/AF1QipNUyxf4CAi7DfOFjFVlvo6RJxhe7ZZx1eOjzaPj=w650-h486-k-no",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se llama el creador de Dragon Ball?",
+        "respuesta": "Akira Toriyama",
+        "incorrecta1": "Akira Toniyama",
+        "incorrecta2": "Akira Calabazo",
+        "incorrecta3": "Rakia Inayarito\r",
+        "imagen":"https://th.bing.com/th/id/OIP.efyYSZuZzEtfbRu_k3KSPgHaEK?pid=ImgDet&rs=1",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Gran Chaco",
+        "pregunta": "¿Cuanto mide el territorio del Gran Chaco?",
+        "respuesta": "17.428m₂",
+        "incorrecta1": "20.428m₂",
+        "incorrecta2": "34.324m₂",
+        "incorrecta3": "12.244m₂",
+        "imagen":"https://www.familysearch.org/es/wiki/img_auth.php/thumb/2/20/Gran_Chaco_Provincia_Mapa.png/500px-Gran_Chaco_Provincia_Mapa.png",
+        "objectFit": "cover"
+        
+    },
+    {
+        "categoria": "Bolivia",
+        "pregunta": "¿Cuantos departamentos tiene Bolivia",
+        "respuesta": "9 departamentos",
+        "incorrecta1": "12 departamentos",
+        "incorrecta2": "6 departamentos",
+        "incorrecta3": "10 departamentos",
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag-map_of_Bolivia.svg/674px-Flag-map_of_Bolivia.svg.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Gran Chaco",
+        "pregunta": "Anterior a que yacuiba fuera la capital del Gran Chaco, cual era la capital",
+        "respuesta": "Caiza",
+        "incorrecta1": "Carapari",
+        "incorrecta2": "Sanandita",
+        "incorrecta3": "Campo Grande",
+        "imagen":"https://upload.wikimedia.org/wikipedia/commons/d/d1/Chaco_Boreal_Paraguay.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Bolivia",
+        "pregunta": "¿En que año se creo Bolivia?",
+        "respuesta": "1825",
+        "incorrecta1": "1832",
+        "incorrecta2": "1923",
+        "incorrecta3": "1815",
+        "imagen":"http://www.redescuela.org/uploads/WikiEscuela/fechascivicas-proclamacion.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "Cuando fue la ultima vez que Bolivia jugo en el mundial de futbol",
+        "respuesta": "1994",
+        "incorrecta1": "1985",
+        "incorrecta2": "1934",
+        "incorrecta3": "1995",
+        "imagen":"https://images.ole.com.ar/2021/09/09/d3UqiyCTY_640x361__1.jpg",
+        "objectFit": "cover"
+
+    },
+    {
+        "categoria": "Gran Chaco",
+        "pregunta": "Significado de Yacuiba",
+        "respuesta": "Aguada de la pavas",
+        "incorrecta1": "Ciudad Nueva",
+        "incorrecta2": "Campo Bueno",
+        "incorrecta3": "Pueblo del Sur",
+        "imagen":"http://proyectoidis.org/wp-content/uploads/2013/08/Cinematograf-Project3-930x1024.jpg",
+        "objectFit": "cover"
+
+    }
+]
